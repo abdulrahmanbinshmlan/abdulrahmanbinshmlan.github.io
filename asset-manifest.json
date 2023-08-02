@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "./static/css/main.14002fba.css",
+    "main.js": "./static/js/main.01dfe449.js",
+    "static/js/787.55a7b2b6.chunk.js": "./static/js/787.55a7b2b6.chunk.js",
+    "static/media/Sheybarah_hero.jpg": "./static/media/Sheybarah_hero.51a7c2c8c619bbdb8687.jpg",
+    "static/media/career.jpeg": "./static/media/career.da72b15ca6a8c4473440.jpeg",
+    "static/media/red-sea-saudi.jpeg": "./static/media/red-sea-saudi.cf62a42279361874097c.jpeg",
+    "static/media/SLS.gif": "./static/media/SLS.18ed631a6d92b9912b39.gif",
+    "static/media/Worlds-Greatest-Places-Red-Sea-Saudi-Arabia.jpg": "./static/media/Worlds-Greatest-Places-Red-Sea-Saudi-Arabia.869f5bc8035d7d62c492.jpg",
+    "static/media/NotoSans-Regular.ttf": "./static/media/NotoSans-Regular.e962f548522aa99bb8f9.ttf",
+    "static/media/WAMA-named-from-combining-the-wo.jpg": "./static/media/WAMA-named-from-combining-the-wo.ae9c94437ff9d2b26ab6.jpg",
+    "static/media/The-Grand-Palace-Hurghada-02.jpg": "./static/media/The-Grand-Palace-Hurghada-02.bb18b094c4609964cb6f.jpg",
+    "static/media/Aromi-Restaurant-1024x768.jpg": "./static/media/Aromi-Restaurant-1024x768.b59112d3345295b0ec7f.jpg",
+    "static/media/six-senses-hotel-8.jpg": "./static/media/six-senses-hotel-8.196a93c6453a689b4a0a.jpg",
+    "static/media/The-Red-Sea-staff-village.jpg": "./static/media/The-Red-Sea-staff-village.fe801a6b92eda6ae761a.jpg",
+    "static/media/twitterLogo.png": "./static/media/twitterLogo.e995dc8ba064bf67561e.png",
+    "static/media/Things-to-do-in-Red-Sea-840x450.jpg": "./static/media/Things-to-do-in-Red-Sea-840x450.698ba767c798286fdf91.jpg",
+    "static/media/NotoKufiArabic-Regular.ttf": "./static/media/NotoKufiArabic-Regular.2509fb0bcad9ad714ded.ttf",
+    "static/media/Jumeirah-Referenced-Bod-916x515.jpg": "./static/media/Jumeirah-Referenced-Bod-916x515.5a1cecb910df9d8c1655.jpg",
+    "static/media/instgramLogo.png": "./static/media/instgramLogo.6468527fba7ccd4ff8c2.png",
+    "static/media/linkedinLogo.png": "./static/media/linkedinLogo.f6767345f6d31c8b13ee.png",
+    "static/media/RSG_BI_RGB_VERTICAL_navy_gold_RSG_BI_RGB_VERTICAL.svg": "./static/media/RSG_BI_RGB_VERTICAL_navy_gold_RSG_BI_RGB_VERTICAL.c06db66a3b386c5c7253a692d56f6de0.svg",
+    "static/media/RSG_BI_RGB_VERTICAL_white_gold_RSG_BI_RGB_VERTICAL.svg": "./static/media/RSG_BI_RGB_VERTICAL_white_gold_RSG_BI_RGB_VERTICAL.688dc7ba47e5f35dc1d255bba40a2317.svg",
+    "index.html": "./index.html",
+    "static/media/check_circle_FILL0_wght400_GRAD0_opsz48.svg": "./static/media/check_circle_FILL0_wght400_GRAD0_opsz48.65326bbe275ec001ba20b6f400ccfa31.svg",
+    "main.14002fba.css.map": "./static/css/main.14002fba.css.map",
+    "main.01dfe449.js.map": "./static/js/main.01dfe449.js.map",
+    "787.55a7b2b6.chunk.js.map": "./static/js/787.55a7b2b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14002fba.css",
+    "static/js/main.01dfe449.js"
+  ]
+}
